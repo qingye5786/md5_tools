@@ -1,0 +1,19 @@
+body,td,th {font-size:12px;}
+body {margin:0px;}
+a:link {color:#000000;text-decoration:none;}
+a:visited {text-decoration:none;color:#000000;}
+a:hover {text-decoration:underline;color:#FF0000;}
+a:active {text-decoration:none;color:#FF0000;}
+.but{border:1px solid #c5e2f2;background:#cde4f2 url('') repeat-x 50% top;height:25px;cursor:pointer;width: auto;padding:2px;vertical-align:top;}
+a.Ajiang {color: #999999;text-decoration: none;}
+.wrap {width:800px;margin:0 auto;padding-top:180px;}
+.top .strCon {width:250px;height:23px;line-height:20px;color:green;border:1px solid #cde4f2;font-size:22px;padding-left:5px;vertical-align:middle}
+.con {border:1px solid #bbd7e6;margin:0 auto;text-align:center;padding-top:40px;}
+.con .bot {margin-top:24px;}
+.con .bot .types {padding-left:39px;}
+.con .bot .sub {margin-top:24px;}
+.con .bot .sub input {padding:2px;}
+.bottom {text-align:center;background-color:#eff8fc;padding:3px;color:#999999;padding:5px 0;}
+.bottom a {color:blue;font-weight:700;}
+.result {text-align:center;padding:10px 0;margin:10px 0;}
+.word {height:33px;line-height:30px;border:0px;font-size:22px;padding-left:5px;vertical-align:top;color:#22AC38;}
